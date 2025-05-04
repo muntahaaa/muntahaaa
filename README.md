@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, This is Muntaha</h1>
 <h3 align="center">An enthusiast Software Engineering undergrad student</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 - 🌱 I’m currently learning **Full Stack Web Development, Software Design and Architecture, and Microservices**
+
 - 📫 How to reach me **bsse1450@iit.du.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
